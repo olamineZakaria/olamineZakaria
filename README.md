@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a passionate IT student who's enthusiastic about exploring the ever-evolving world of technology. My journey in the realm of IT has been a thrilling ride, from dabbling in programming languages to diving deep into networking concepts. I believe in the power of technology to shape the future and solve real-world problems.
+I'm a passionat IT student who's enthusiastic about exploring the ever-evolving world of technology. My journey in the realm of IT has been a thrilling ride, from dabbling in programming languages to diving deep into networking concepts. I believe in the power of technology to shape the future and solve real-world problems.
 
 ## Interests
 
